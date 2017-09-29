@@ -12,6 +12,10 @@
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>$(PRODUCT_NAME)</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>Privacy Photo Library Usage </key>
+	<string>This app requires the use of a photo library </string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
